@@ -1,4 +1,6 @@
 # Web-Course-Management-App
+<img width="366" alt="Screen Shot 2021-01-11 at 4 32 31 PM" src="https://user-images.githubusercontent.com/49425190/104246850-55d13400-542c-11eb-8f63-6e74a566afdf.png">
+
 
 <img width="800" alt="Screen Shot 2021-01-11 at 4 37 53 PM" src="https://user-images.githubusercontent.com/49425190/104246378-7fd62680-542b-11eb-8a60-5a081a2b8f8e.png">
 
